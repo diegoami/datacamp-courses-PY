@@ -1,36 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pandas_5/panda5_7.py" description="ts1 = ts0.loc['2010-10-11 21:00:00']&#10;&#10;# Extract '2..." line="6" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b29d5897-70cf-4527-a981-ca4e171d1a49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cars.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/fraction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/gapminder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/messy_data.tsv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/stocks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temperatures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/titanic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/weather_udg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/womens.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/world_population.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_3/pandas3_8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_4/pandas4_8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/airports.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/date_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temp2.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temp3.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temp_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temperature.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_12.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/panda5_9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/ts1.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_5/ts2.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_6/panda6_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas_6/panda6_2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,9 +37,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/datacamp$pandas_6.coverage" NAME="pandas_6 Coverage Results" MODIFIED="1495752394484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_1" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_13.coverage" NAME="panda5_13 Coverage Results" MODIFIED="1495878795777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$pandas_3.coverage" NAME="pandas_3 Coverage Results" MODIFIED="1495752246531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_1" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_10.coverage" NAME="panda5_10 Coverage Results" MODIFIED="1495876882054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$dict_2.coverage" NAME="dict_2 Coverage Results" MODIFIED="1495751825312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionaries" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_3.coverage" NAME="panda5_3 Coverage Results" MODIFIED="1495845762156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$comp_1.coverage" NAME="comp_1 Coverage Results" MODIFIED="1495752959154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparators" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_9.coverage" NAME="panda5_9 Coverage Results" MODIFIED="1495876674171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$panda2_3.coverage" NAME="panda2_3 Coverage Results" MODIFIED="1495753452595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_2" />
     <SUITE FILE_PATH="coverage/datacamp$pandas3_8.coverage" NAME="pandas3_8 Coverage Results" MODIFIED="1495823074335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_3" />
     <SUITE FILE_PATH="coverage/datacamp$pandas4_6.coverage" NAME="pandas4_6 Coverage Results" MODIFIED="1495842455427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_4" />
@@ -73,6 +72,7 @@
     <SUITE FILE_PATH="coverage/datacamp$plot_5.coverage" NAME="plot_5 Coverage Results" MODIFIED="1495750043210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyth_interm_1" />
     <SUITE FILE_PATH="coverage/datacamp$dict_1.coverage" NAME="dict_1 Coverage Results" MODIFIED="1495751806394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionaries" />
     <SUITE FILE_PATH="coverage/datacamp$comp_2.coverage" NAME="comp_2 Coverage Results" MODIFIED="1495752983781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparators" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_8.coverage" NAME="panda5_8 Coverage Results" MODIFIED="1495876558707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$panda2_1.coverage" NAME="panda2_1 Coverage Results" MODIFIED="1495753307887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_2" />
     <SUITE FILE_PATH="coverage/datacamp$pandas4_4.coverage" NAME="pandas4_4 Coverage Results" MODIFIED="1495838835294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_4" />
     <SUITE FILE_PATH="coverage/datacamp$dict_6.coverage" NAME="dict_6 Coverage Results" MODIFIED="1495751903225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionaries" />
@@ -93,7 +93,9 @@
     <SUITE FILE_PATH="coverage/datacamp$rw_7.coverage" NAME="rw_7 Coverage Results" MODIFIED="1495756467860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random_walk" />
     <SUITE FILE_PATH="coverage/datacamp$rand2.coverage" NAME="rand2 Coverage Results" MODIFIED="1495755664554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
     <SUITE FILE_PATH="coverage/datacamp$numpy_10.coverage" NAME="numpy_10 Coverage Results" MODIFIED="1495748983131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_5.coverage" NAME="panda5_5 Coverage Results" MODIFIED="1495846662116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$panda5_2.coverage" NAME="panda5_2 Coverage Results" MODIFIED="1495845448991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_11.coverage" NAME="panda5_11 Coverage Results" MODIFIED="1495877254470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$pandas_8.coverage" NAME="pandas_8 Coverage Results" MODIFIED="1495752672603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_1" />
     <SUITE FILE_PATH="coverage/datacamp$pandas_2.coverage" NAME="pandas_2 Coverage Results" MODIFIED="1495751985857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_1" />
     <SUITE FILE_PATH="coverage/datacamp$pandas4_8.coverage" NAME="pandas4_8 Coverage Results" MODIFIED="1495843257437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_4" />
@@ -102,10 +104,12 @@
     <SUITE FILE_PATH="coverage/datacamp$pandas3_7.coverage" NAME="pandas3_7 Coverage Results" MODIFIED="1495822687097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_3" />
     <SUITE FILE_PATH="coverage/datacamp$plot_15.coverage" NAME="plot_15 Coverage Results" MODIFIED="1495751689384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyth_interm_1" />
     <SUITE FILE_PATH="coverage/datacamp$pandas3_1.coverage" NAME="pandas3_1 Coverage Results" MODIFIED="1495818730970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_3" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_7.coverage" NAME="panda5_7 Coverage Results" MODIFIED="1495847550695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$panda5_1.coverage" NAME="panda5_1 Coverage Results" MODIFIED="1495843938366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$plot_2.coverage" NAME="plot_2 Coverage Results" MODIFIED="1495749554905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyth_interm_1" />
     <SUITE FILE_PATH="coverage/datacamp$dict_4.coverage" NAME="dict_4 Coverage Results" MODIFIED="1495751864857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionaries" />
     <SUITE FILE_PATH="coverage/datacamp$pandas4_2.coverage" NAME="pandas4_2 Coverage Results" MODIFIED="1495837351747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_4" />
+    <SUITE FILE_PATH="coverage/datacamp$panda6_2.coverage" NAME="panda6_2 Coverage Results" MODIFIED="1495879142724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_6" />
     <SUITE FILE_PATH="coverage/datacamp$pandas_7.coverage" NAME="pandas_7 Coverage Results" MODIFIED="1495752451638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_1" />
     <SUITE FILE_PATH="coverage/datacamp$loop_5.coverage" NAME="loop_5 Coverage Results" MODIFIED="1495755590566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops" />
     <SUITE FILE_PATH="coverage/datacamp$pandas4_7.coverage" NAME="pandas4_7 Coverage Results" MODIFIED="1495843233503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_4" />
@@ -115,74 +119,43 @@
     <SUITE FILE_PATH="coverage/datacamp$pandas3_6.coverage" NAME="pandas3_6 Coverage Results" MODIFIED="1495821592843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_3" />
     <SUITE FILE_PATH="coverage/datacamp$plot_8.coverage" NAME="plot_8 Coverage Results" MODIFIED="1495751212666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyth_interm_1" />
     <SUITE FILE_PATH="coverage/datacamp$numpy_6.coverage" NAME="numpy_6 Coverage Results" MODIFIED="1495746918661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
+    <SUITE FILE_PATH="coverage/datacamp$panda6_1.coverage" NAME="panda6_1 Coverage Results" MODIFIED="1495878851675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_6" />
     <SUITE FILE_PATH="coverage/datacamp$rand3.coverage" NAME="rand3 Coverage Results" MODIFIED="1495755711974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
     <SUITE FILE_PATH="coverage/datacamp$rw_4.coverage" NAME="rw_4 Coverage Results" MODIFIED="1495756064171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random_walk" />
     <SUITE FILE_PATH="coverage/datacamp$numpy_11.coverage" NAME="numpy_11 Coverage Results" MODIFIED="1495749220931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
     <SUITE FILE_PATH="coverage/datacamp$pandas_1.coverage" NAME="pandas_1 Coverage Results" MODIFIED="1495751954713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_1" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_6.coverage" NAME="panda5_6 Coverage Results" MODIFIED="1495846934331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
+    <SUITE FILE_PATH="coverage/datacamp$panda5_12.coverage" NAME="panda5_12 Coverage Results" MODIFIED="1495877624446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
     <SUITE FILE_PATH="coverage/datacamp$plot_10.coverage" NAME="plot_10 Coverage Results" MODIFIED="1495751196212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyth_interm_1" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="weather_udg.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/weather_udg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="66" column="14" lean-forward="false" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panda5_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_1.py">
+      <file leaf-file-name="panda5_11.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_11.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pandas4_8.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandas_4/pandas4_8.py">
+      <file leaf-file-name="panda5_13.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="85">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panda5_2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_2.py">
+      <file leaf-file-name="panda5_12.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cars.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cars.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="titanic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/titanic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="14016" column="20" lean-forward="true" selection-start-line="14016" selection-start-column="20" selection-end-line="14016" selection-end-column="20" />
+            <state relative-caret-position="306">
+              <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -190,34 +163,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/envs/main/Lib/site-packages/pandas/indexes/base.py">
+      <file leaf-file-name="panda5_8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="2135" column="0" lean-forward="false" selection-start-line="2135" selection-start-column="0" selection-end-line="2135" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plotting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/envs/main/Lib/site-packages/pandas/tools/plotting.py">
+      <file leaf-file-name="panda6_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_6/panda6_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="1149" column="0" lean-forward="false" selection-start-line="1149" selection-start-column="0" selection-end-line="1149" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gapminder.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/gapminder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="56928" column="11" lean-forward="true" selection-start-line="56928" selection-start-column="11" selection-end-line="56928" selection-end-column="11" />
+            <state relative-caret-position="51">
+              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panda6_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pandas_6/panda6_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp3.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/temp3.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panda5_6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temperature.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/temperature.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="746" column="0" lean-forward="false" selection-start-line="746" selection-start-column="0" selection-end-line="746" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panda5_10.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_5/panda5_10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="71" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="71" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -243,6 +256,7 @@
       <find>^.*nan$</find>
       <find>fare</find>
       <find>pclass</find>
+      <find>Destination</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -255,26 +269,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pandas_2/panda2_1.py" />
-        <option value="$PROJECT_DIR$/pandas_2/cars.csv" />
-        <option value="$PROJECT_DIR$/pandas_2/panda2_2.py" />
-        <option value="$PROJECT_DIR$/pandas_2/panda2_3.py" />
-        <option value="$PROJECT_DIR$/pandas_2/panda2_4.py" />
-        <option value="$PROJECT_DIR$/data/baseball.py" />
-        <option value="$PROJECT_DIR$/loops/loop_1.py" />
-        <option value="$PROJECT_DIR$/loops/loop_2.py" />
-        <option value="$PROJECT_DIR$/loops/loop_3.py" />
-        <option value="$PROJECT_DIR$/loops/loop_4.py" />
-        <option value="$PROJECT_DIR$/loops/loop_5.py" />
-        <option value="$PROJECT_DIR$/random/rand1.py" />
-        <option value="$PROJECT_DIR$/random/rand2.py" />
-        <option value="$PROJECT_DIR$/random/rand3.py" />
-        <option value="$PROJECT_DIR$/random_walk/rw_1.py" />
-        <option value="$PROJECT_DIR$/random_walk/rw_2.py" />
-        <option value="$PROJECT_DIR$/random_walk/rw_3.py" />
-        <option value="$PROJECT_DIR$/random_walk/rw_4.py" />
-        <option value="$PROJECT_DIR$/random_walk/rw_5.py" />
-        <option value="$PROJECT_DIR$/random_walk/rw_6.py" />
         <option value="$PROJECT_DIR$/random_walk/rw_7.py" />
         <option value="$PROJECT_DIR$/pandas_3/pandas3_1.py" />
         <option value="$PROJECT_DIR$/pandas_3/pandas3_2.py" />
@@ -306,6 +300,26 @@
         <option value="$PROJECT_DIR$/pandas_5/panda5_1.py" />
         <option value="$PROJECT_DIR$/data/titanic.py" />
         <option value="$PROJECT_DIR$/pandas_5/panda5_2.py" />
+        <option value="$PROJECT_DIR$/data/date_list.py" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_3.py" />
+        <option value="$PROJECT_DIR$/data/temp_2.py" />
+        <option value="$PROJECT_DIR$/pandas_5/ts1.csv" />
+        <option value="$PROJECT_DIR$/pandas_5/ts2.csv" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_5.py" />
+        <option value="$PROJECT_DIR$/data/temp2.csv" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_7.py" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_8.py" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_6.py" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_9.py" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_10.py" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_11.py" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_12.py" />
+        <option value="$PROJECT_DIR$/data/airports.csv" />
+        <option value="$PROJECT_DIR$/pandas_5/panda5_13.py" />
+        <option value="$PROJECT_DIR$/data/temperature.csv" />
+        <option value="$PROJECT_DIR$/pandas_6/panda6_1.py" />
+        <option value="$PROJECT_DIR$/data/temp3.csv" />
+        <option value="$PROJECT_DIR$/pandas_6/panda6_2.py" />
       </list>
     </option>
   </component>
@@ -316,10 +330,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -374,35 +386,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pandas_5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="datacamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="datacamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pandas_4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="datacamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="datacamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="pandas_6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -422,11 +406,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\datacamp\pandas_6" />
       <recent name="D:\python\datacamp\pandas_5" />
+      <recent name="D:\python\datacamp\data" />
       <recent name="D:\python\datacamp\pandas_4" />
       <recent name="D:\python\datacamp\pandas_3" />
-      <recent name="D:\python\datacamp\random_walk" />
-      <recent name="D:\python\datacamp\random" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python\datacamp\data" />
@@ -444,65 +428,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.panda5_2">
-    <configuration default="false" name="pandas4_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="datacamp" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_4/pandas4_6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pandas4_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="datacamp" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_4/pandas4_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pandas4_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="datacamp" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_4/pandas4_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="panda5_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.panda6_2">
+    <configuration default="false" name="panda5_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -515,13 +442,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datacamp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_5/panda5_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_5/panda5_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="panda5_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="panda5_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -534,7 +461,64 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datacamp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_5/panda5_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_5/panda5_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="panda5_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="datacamp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_5/panda5_13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="panda6_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="datacamp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_6/panda6_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="panda6_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="datacamp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_6/panda6_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -689,19 +673,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pandas4_6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pandas4_7" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pandas4_8" />
-      <item index="3" class="java.lang.String" itemvalue="Python.panda5_1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.panda5_2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.panda5_11" />
+      <item index="1" class="java.lang.String" itemvalue="Python.panda5_12" />
+      <item index="2" class="java.lang.String" itemvalue="Python.panda5_13" />
+      <item index="3" class="java.lang.String" itemvalue="Python.panda6_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.panda6_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.panda5_2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.panda5_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pandas4_8" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pandas4_7" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pandas4_6" />
+        <item index="0" class="java.lang.String" itemvalue="Python.panda6_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.panda6_1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.panda5_13" />
+        <item index="3" class="java.lang.String" itemvalue="Python.panda5_12" />
+        <item index="4" class="java.lang.String" itemvalue="Python.panda5_11" />
       </list>
     </recent_temporary>
   </component>
@@ -723,19 +707,26 @@
       <option name="project" value="LOCAL" />
       <updated>1495758172585</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Parsing titanic stuff">
+      <created>1495845487671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1495845487671</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50162864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5104972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21197917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21376051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -758,7 +749,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished second course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished second course" />
+    <MESSAGE value="Parsing titanic stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parsing titanic stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -773,179 +765,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pandas_2/panda2_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_2/panda2_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_2/panda2_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/baseball.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="1071" column="34" lean-forward="true" selection-start-line="1070" selection-start-column="34" selection-end-line="1071" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loops/loop_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loops/loop_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loops/loop_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loops/loop_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loops/loop_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random/rand1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random/rand2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random/rand3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_walk/rw_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_walk/rw_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_walk/rw_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_walk/rw_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_walk/rw_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_walk/rw_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_3/pandas3_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_3/pandas3_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#33#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_3/pandas3_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="e#15#33#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/world_population.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/main/Lib/site-packages/pandas/compat/openpyxl_compat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -958,14 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/temperatures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1166,14 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pandas_4/pandas4_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1192,6 +995,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/date_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="502" column="0" lean-forward="false" selection-start-line="502" selection-start-column="0" selection-end-line="502" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/main/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="2818" column="8" lean-forward="false" selection-start-line="2818" selection-start-column="8" selection-end-line="2818" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/ts2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pandas_5/panda5_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1199,6 +1026,182 @@
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/ts1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/airports.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/temp_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="503" column="23" lean-forward="false" selection-start-line="503" selection-start-column="23" selection-end-line="503" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/temp2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148624">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/temperatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12333">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/temperature.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="746" column="0" lean-forward="false" selection-start-line="746" selection-start-column="0" selection-end-line="746" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="71" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_6/panda6_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/temp3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_5/panda5_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_6/panda6_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
