@@ -1,5 +1,5 @@
 import pandas as pd
-users = pd.read_csv('visitors_weekday.csv',index_col = 0)
+users = pd.read_csv('week2.csv',index_col = 0)
 
 users = users.set_index(['city', 'weekday'])
 
