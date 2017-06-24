@@ -1,5 +1,3 @@
-import numpy as np
-import pandas as pd
 
 from datacamp.lib import *
 
@@ -22,9 +20,6 @@ virginica_petal_length = np.array([ 6. ,  5.1,  5.9,  5.6,  5.8,  6.6,  4.5,  6.
         5.1,  5.6,  6.1,  5.6,  5.5,  4.8,  5.4,  5.6,  5.1,  5.1,  5.9,
         5.7,  5.2,  5. ,  5.2,  5.4,  5.1])
 
-# Import plotting modules
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 # Specify array of percentiles: percentiles
 percentiles =  np.array([2.5, 25,50,75,97.5])

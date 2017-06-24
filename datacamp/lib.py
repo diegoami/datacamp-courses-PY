@@ -58,3 +58,38 @@ def draw_bs_reps(data, func, size=1):
     return bs_replicates
 
 
+def draw_bs_pairs_linreg(x, y, size=1):
+    """Perform pairs bootstrap for linear regression."""
+
+    # Set up array of indices to sample from: inds
+    inds = np.arange(len(x))
+
+    # Initialize replicates: bs_slope_reps, bs_intercept_reps
+    bs_slope_reps = np.empty(size)
+    bs_intercept_reps = np.empty(size)
+
+    # Generate replicates
+    for i in range(size):
+        bs_inds = np.random.choice(inds, size=len(inds))
+        bs_x, bs_y = x[bs_inds], y[bs_inds]
+        bs_slope_reps[i], bs_intercept_reps[i] = np.polyfit(bs_x, bs_y,1)
+
+    return bs_slope_reps, bs_intercept_reps
+
+def perform_bernoulli_trials(n, p):
+    """Perform n Bernoulli trials with success probability p
+    and return number of successes."""
+    # Initialize number of successes: n_success
+    n_success = 0
+
+
+    # Perform trials
+    for i in range(n):
+        # Choose random number between zero and one: random_number
+        random_number = np.random.random()
+
+        # If less than p, it's a success so add one to n_success
+        if random_number < p:
+            n_success += 1
+
+    return n_success

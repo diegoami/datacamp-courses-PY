@@ -7,27 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b29d5897-70cf-4527-a981-ca4e171d1a49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ill_fert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/nohitter_times.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/rainfall.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datacamp/lib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/st_python_2/st_python2_17.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/st_python_2/st_python2_18.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/datacamp.iml" afterPath="$PROJECT_DIR$/.idea/datacamp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/ecdf.py" afterPath="$PROJECT_DIR$/st_python/ecdf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python5.py" afterPath="$PROJECT_DIR$/st_python/st_python5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python6.py" afterPath="$PROJECT_DIR$/st_python/st_python6.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datacamp/lib.py" afterPath="$PROJECT_DIR$/datacamp/lib.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python7.py" afterPath="$PROJECT_DIR$/st_python/st_python7.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python8.py" afterPath="$PROJECT_DIR$/st_python/st_python8.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python9.py" afterPath="$PROJECT_DIR$/st_python/st_python9.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_10.py" afterPath="$PROJECT_DIR$/st_python/st_python_10.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_11.py" afterPath="$PROJECT_DIR$/st_python/st_python_11.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_12.py" afterPath="$PROJECT_DIR$/st_python/st_python_12.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_13.py" afterPath="$PROJECT_DIR$/st_python/st_python_13.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_14.py" afterPath="$PROJECT_DIR$/st_python/st_python_14.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_15.py" afterPath="$PROJECT_DIR$/st_python/st_python_15.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_16.py" afterPath="$PROJECT_DIR$/st_python/st_python_16.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_17.py" afterPath="$PROJECT_DIR$/st_python/st_python_17.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_18.py" afterPath="$PROJECT_DIR$/st_python/st_python_18.py" />
@@ -35,27 +17,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_20.py" afterPath="$PROJECT_DIR$/st_python/st_python_20.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_21.py" afterPath="$PROJECT_DIR$/st_python/st_python_21.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_22.py" afterPath="$PROJECT_DIR$/st_python/st_python_22.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_23.py" afterPath="$PROJECT_DIR$/st_python/st_python_23.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_24.py" afterPath="$PROJECT_DIR$/st_python/st_python_24.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_25.py" afterPath="$PROJECT_DIR$/st_python/st_python_25.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_26.py" afterPath="$PROJECT_DIR$/st_python/st_python_26.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_27.py" afterPath="$PROJECT_DIR$/st_python/st_python_27.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python/st_python_28.py" afterPath="$PROJECT_DIR$/st_python/st_python_28.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_1.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_10.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_10.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_11.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_11.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_12.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_12.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_13.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_13.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_14.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_14.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_15.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_15.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_16.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_16.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_2.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_3.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_4.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_5.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_6.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_6.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_7.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_7.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_8.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_8.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/st_python_2/st_python2_9.py" afterPath="$PROJECT_DIR$/st_python_2/st_python2_9.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -313,11 +277,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="st_python2_18.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_18.py">
+      <file leaf-file-name="st_python_21.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python_21.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-54">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="185">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -325,97 +289,101 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="st_python2_17.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_17.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="st_python2_16.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_16.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="st_python2_15.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_15.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="st_python2_14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="st_python2_13.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="st_python2_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="st_python2_3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nohitter_times.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/nohitter_times.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="st_python2_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_1.py">
+      <file leaf-file-name="st_python_22.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python_22.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="st_python6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="st_python_10.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python_10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="st_python_18.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python_18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="st_python_19.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python_19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#27#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="st_python_20.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python_20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="st_python7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nohitter_times.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/nohitter_times.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="st_python2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st_python/st_python2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -433,8 +401,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>nohitter_times</find>
-      <find>join</find>
       <find>i</find>
       <find>ind</find>
       <find>inde</find>
@@ -463,16 +429,18 @@
       <find>def bootstrap_replicate_1d\(data\, func\)\:\n    return func\(np\.random\.choice\(data\, size\=len\(data\)\)\)\n\ndef draw_bs_reps\(data\, func\, size\=1\)\:\n    \&quot;\&quot;\&quot;Draw bootstrap replicates\.\&quot;\&quot;\&quot;\n\n    \# Initialize array of replicates\: bs_replicates\n    bs_replicates \= np\.empty\(size\)\n\n    \# Generate replicates\n    for i in range\(size\)\:\n        bs_replicates\[i\] \= bootstrap_replicate_1d\(data\, func\)\n\n    return bs_replicates</find>
       <find>rainfall \= np\.array\(\[  875\.5\,   648\.2\,   788\.1\,   940\.3\,   491\.1\,   743\.5\,   730\.1\,\n         686\.5\,   878\.8\,   865\.6\,   654\.9\,   831\.5\,   798\.1\,   681\.8\,\n         743\.8\,   689\.1\,   752\.1\,   837\.2\,   710\.6\,   749\.2\,   967\.1\,\n         701\.2\,   619\. \,   747\.6\,   803\.4\,   645\.6\,   804\.1\,   787\.4\,\n         646\.8\,   997\.1\,   774\. \,   734\.5\,   835\. \,   840\.7\,   659\.6\,\n         828\.3\,   909\.7\,   856\.9\,   578\.3\,   904\.2\,   883\.9\,   740\.1\,\n         773\.9\,   741\.4\,   866\.8\,   871\.1\,   712\.5\,   919\.2\,   927\.9\,\n         809\.4\,   633\.8\,   626\.8\,   871\.3\,   774\.3\,   898\.8\,   789\.6\,\n         936\.3\,   765\.4\,   882\.1\,   681\.1\,   661\.3\,   847\.9\,   683\.9\,\n         985\.7\,   771\.1\,   736\.6\,   713\.2\,   774\.5\,   937\.7\,   694\.5\,\n         598\.2\,   983\.8\,   700\.2\,   901\.3\,   733\.5\,   964\.4\,   609\.3\,\n        1035\.2\,   718\. \,   688\.6\,   736\.8\,   643\.3\,  1038\.5\,   969\. \,\n         802\.7\,   876\.6\,   944\.7\,   786\.6\,   770\.4\,   808\.6\,   761\.3\,\n         774\.2\,   559\.3\,   674\.2\,   883\.6\,   823\.9\,   960\.4\,   877\.8\,\n         940\.6\,   831\.8\,   906\.2\,   866\.5\,   674\.1\,   998\.1\,   789\.3\,\n         915\. \,   737\.1\,   763\. \,   666\.7\,   824\.5\,   913\.8\,   905\.1\,\n         667\.8\,   747\.4\,   784\.7\,   925\.4\,   880\.2\,  1086\.9\,   764\.4\,\n        1050\.1\,   595\.2\,   855\.2\,   726\.9\,   785\.2\,   948\.8\,   970\.6\,\n         896\. \,   618\.4\,   572\.4\,  1146\.4\,   728\.2\,   864\.2\,   793\. \]\)\n</find>
       <find>nohitter_times \= np\.array\(\[ 843\, 1613\, 1101\,  215\,  684\,  814\,  278\,  324\,  161\,  219\,  545\,\n        715\,  966\,  624\,   29\,  450\,  107\,   20\,   91\, 1325\,  124\, 1468\,\n        104\, 1309\,  429\,   62\, 1878\, 1104\,  123\,  251\,   93\,  188\,  983\,\n        166\,   96\,  702\,   23\,  524\,   26\,  299\,   59\,   39\,   12\,    2\,\n        308\, 1114\,  813\,  887\,  645\, 2088\,   42\, 2090\,   11\,  886\, 1665\,\n       1084\, 2900\, 2432\,  750\, 4021\, 1070\, 1765\, 1322\,   26\,  548\, 1525\,\n         77\, 2181\, 2752\,  127\, 2147\,  211\,   41\, 1575\,  151\,  479\,  697\,\n        557\, 2267\,  542\,  392\,   73\,  603\,  233\,  255\,  528\,  397\, 1529\,\n       1023\, 1194\,  462\,  583\,   37\,  943\,  996\,  480\, 1497\,  717\,  224\,\n        219\, 1531\,  498\,   44\,  288\,  267\,  600\,   52\,  269\, 1086\,  386\,\n        176\, 2199\,  216\,   54\,  675\, 1243\,  463\,  650\,  171\,  327\,  110\,\n        774\,  509\,    8\,  197\,  136\,   12\, 1124\,   64\,  380\,  811\,  232\,\n        192\,  731\,  715\,  226\,  605\,  539\, 1491\,  323\,  240\,  179\,  702\,\n        156\,   82\, 1397\,  354\,  778\,  603\, 1001\,  385\,  986\,  203\,  149\,\n        576\,  445\,  180\, 1403\,  252\,  675\, 1351\, 2983\, 1568\,   45\,  899\,\n       3260\, 1025\,   31\,  100\, 2055\, 4043\,   79\,  238\, 3931\, 2351\,  595\,\n        110\,  215\,    0\,  563\,  206\,  660\,  242\,  577\,  179\,  157\,  192\,\n        192\, 1848\,  792\, 1693\,   55\,  388\,  225\, 1134\, 1172\, 1555\,   31\,\n       1582\, 1044\,  378\, 1687\, 2915\,  280\,  765\, 2819\,  511\, 1521\,  745\,\n       2491\,  580\, 2072\, 6450\,  578\,  745\, 1075\, 1103\, 1549\, 1520\,  138\,\n       1202\,  296\,  277\,  351\,  391\,  950\,  459\,   62\, 1056\, 1128\,  139\,\n        420\,   87\,   71\,  814\,  603\, 1349\,  162\, 1027\,  783\,  326\,  101\,\n        876\,  381\,  905\,  156\,  419\,  239\,  119\,  129\,  467\]\)\n</find>
+      <find>def draw_bs_pairs_linreg\(x\, y\, size\=1\)\:\n    \&quot;\&quot;\&quot;Perform pairs bootstrap for linear regression\.\&quot;\&quot;\&quot;\n\n    \# Set up array of indices to sample from\: inds\n    inds \= np\.arange\(len\(x\)\)\n\n    \# Initialize replicates\: bs_slope_reps\, bs_intercept_reps\n    bs_slope_reps \= np\.empty\(size\)\n    bs_intercept_reps \= np\.empty\(size\)\n\n    \# Generate replicates\n    for i in range\(size\)\:\n        bs_inds \= np\.random\.choice\(inds\, size\=len\(inds\)\)\n        bs_x\, bs_y \= x\[bs_inds\]\, y\[bs_inds\]\n        bs_slope_reps\[i\]\, bs_intercept_reps\[i\] \= np\.polyfit\(bs_x\, bs_y\,1\)\n\n    return bs_slope_reps\, bs_intercept_reps\n</find>
+      <find>def perform_bernoulli_trials\(n\, p\)\:\n    \&quot;\&quot;\&quot;Perform n Bernoulli trials with success probability p\n    and return number of successes\.\&quot;\&quot;\&quot;\n    \# Initialize number of successes\: n_success\n    n_success \= 0\n\n\n    \# Perform trials\n    for i in range\(n\)\:\n        \# Choose random number between zero and one\: random_number\n        random_number \= np\.random\.random\(\)\n\n        \# If less than p\, it\'s a success so add one to n_success\n        if random_number \&lt; p\:\n            n_success \+\= 1\n\n    return n_success</find>
     </findStrings>
     <replaceStrings>
       <replace>'nan'</replace>
       <replace>,</replace>
       <replace>.47</replace>
       <replace>.82</replace>
-      <replace>from datacamp.lib import *</replace>
       <replace>from data.ill_fert import *</replace>
       <replace>from data.rainfall import *</replace>
       <replace>from data.nohitter_times import *</replace>
+      <replace>from datacamp.lib import *</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\python\datacamp\pandas_10</dir>
@@ -487,27 +455,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/st_python/st_python8.py" />
         <option value="$PROJECT_DIR$/st_python/st_python9.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_10.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_11.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_12.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_13.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_15.py" />
-        <option value="$PROJECT_DIR$/st_python/st_python_16.py" />
-        <option value="$PROJECT_DIR$/st_python/st_python_17.py" />
-        <option value="$PROJECT_DIR$/st_python/st_python_18.py" />
-        <option value="$PROJECT_DIR$/st_python/st_python_19.py" />
-        <option value="$PROJECT_DIR$/st_python/st_python_20.py" />
-        <option value="$PROJECT_DIR$/st_python/st_python_21.py" />
-        <option value="$PROJECT_DIR$/st_python/st_python_22.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_23.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_24.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_25.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_26.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_27.py" />
         <option value="$PROJECT_DIR$/st_python/st_python_28.py" />
-        <option value="$PROJECT_DIR$/st_python_2/st_python2_14.py" />
         <option value="$PROJECT_DIR$/panda_exercises/a1.csv" />
         <option value="$PROJECT_DIR$/panda_exercises/a2.csv" />
         <option value="$PROJECT_DIR$/panda_exercises/panda_sub_unjoined.py" />
@@ -522,13 +481,10 @@
         <option value="$PROJECT_DIR$/st_python_2/st_python2_8.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_9.py" />
         <option value="$PROJECT_DIR$/data/ill_fert.py" />
-        <option value="$PROJECT_DIR$/st_python_2/st_python2_15.py" />
-        <option value="$PROJECT_DIR$/st_python_2/st_python2_16.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_4.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_5.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_6.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_7.py" />
-        <option value="$PROJECT_DIR$/datacamp/lib.py" />
         <option value="$PROJECT_DIR$/data/rainfall.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_10.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_11.py" />
@@ -538,6 +494,18 @@
         <option value="$PROJECT_DIR$/st_python_2/st_python2_13.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_2.py" />
         <option value="$PROJECT_DIR$/st_python_2/st_python2_3.py" />
+        <option value="$PROJECT_DIR$/st_python_2/st_python2_14.py" />
+        <option value="$PROJECT_DIR$/st_python_2/st_python2_15.py" />
+        <option value="$PROJECT_DIR$/st_python_2/st_python2_16.py" />
+        <option value="$PROJECT_DIR$/datacamp/lib.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python_16.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python_17.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python_18.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python_20.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python_21.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python_22.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python_19.py" />
+        <option value="$PROJECT_DIR$/st_python/st_python7.py" />
       </list>
     </option>
   </component>
@@ -591,7 +559,49 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="st_python_2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="datacamp-courses-PY">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="st_python">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="datacamp-courses-PY">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="datacamp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="datacamp-courses-PY">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="data">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -999,7 +1009,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497192380399</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Refactored libraries and data">
+      <created>1498317677395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1498317677395</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1065,7 +1082,8 @@
     <MESSAGE value="Some more merge exercises" />
     <MESSAGE value="Finished merge course for Pandas" />
     <MESSAGE value="Statistical course 1 for Datacamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Statistical course 1 for Datacamp" />
+    <MESSAGE value="Refactored libraries and data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored libraries and data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1074,90 +1092,12 @@
           <url>file://$PROJECT_DIR$/pandas_4/pandas4_3.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/st_python/st_python7.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pandas_10/pandas10_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_9/pandas9_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_9/visitors_weekday.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_9/pandas9_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_9/week2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_9/pandas9_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panda_exercises/panda_customer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1341490653/numpy/random/mtrand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="228" column="4" lean-forward="false" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/main2/lib/python3.6/site-packages/numpy/ma/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="6437" column="71" lean-forward="false" selection-start-line="6437" selection-start-column="71" selection-end-line="6437" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/main2/lib/python3.6/site-packages/numpy/_globals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/numpy/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -1190,47 +1130,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python/st_python_23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/st_python/st_python_27.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python/st_python6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python/st_python_16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python/st_python_21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1292,14 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python/st_python_14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -1342,33 +1234,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datacamp/lib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
@@ -1400,30 +1268,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1436,45 +1322,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/nohitter_times.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -1482,36 +1330,230 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_1.py">
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_2.py">
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_16.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_3.py">
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python_2/st_python2_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacamp/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#27#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st_python/st_python7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/nohitter_times.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
