@@ -1,19 +1,7 @@
 import numpy as np
 import pandas as pd
 
-def ecdf(data):
-    """Compute ECDF for a one-dimensional array of measurements."""
-
-    # Number of data points: n
-
-    n = len(data)
-    # x-data for the ECDF: x
-
-    x = np.sort(data)
-    # y-data for the ECDF: y
-    y = np.arange(1,n+1) / n
-
-    return x, y
+from datacamp.lib import *
 
 
 versicolor_petal_length = np.array([ 4.7,  4.5,  4.9,  4. ,  4.6,  4.5,  4.7,  3.3,  4.6,  3.9,  3.5,
@@ -50,13 +38,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 # Make a scatter plot
 # Compute the covariance matrix: covariance_matrix
-def pearson_r(x,y):
-    """Compute Pearson correlation coefficient between two arrays."""
-    # Compute correlation matrix: corr_mat
-    corr_mat = np.corrcoef(x,y)
-
-    # Return entry [0,1]
-    return corr_mat[0,1]
+from datacamp.lib import *
 
 # Compute Pearson correlation coefficient for I. versicolor: r
 
