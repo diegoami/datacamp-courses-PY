@@ -1,6 +1,3 @@
-import numpy as np
-import pandas as pd
-
 from datacamp.lib import *
 
 # Import plotting modules

@@ -6,8 +6,6 @@ from datacamp.lib import *
 
 # Import plotting modules
 import matplotlib.pyplot as plt
-import seaborn as sns
-
 
 # Seed the random number generator
 np.random.seed(42)

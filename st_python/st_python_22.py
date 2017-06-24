@@ -1,14 +1,3 @@
-import numpy as np
-import pandas as pd
-
-from datacamp.lib import *
-
-
-# Import plotting modules
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-
 from datacamp.lib import *
 
 # Draw 10,000 samples out of Poisson distribution: n_nohitters

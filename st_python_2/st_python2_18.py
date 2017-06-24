@@ -1,7 +1,4 @@
 import numpy as np
-import pandas as pd
-# Seed random number generator
-
 # Import plotting modules
 import matplotlib.pyplot as plt
 np.random.seed(42)
