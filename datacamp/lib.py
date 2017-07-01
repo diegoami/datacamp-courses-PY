@@ -1,5 +1,12 @@
 import numpy as np
 
+def diff_of_means(data_1, data_2):
+    """Difference in means of two arrays."""
+
+    # The difference of means of data_1, data_2: diff
+    diff = np.mean(data_1) - np.mean(data_2)
+
+    return diff
 
 def pearson_r(x,y):
     """Compute Pearson correlation coefficient between two arrays."""
@@ -93,3 +100,19 @@ def perform_bernoulli_trials(n, p):
             n_success += 1
 
     return n_success
+
+
+def draw_perm_reps(data_1, data_2, func, size=1):
+    """Generate multiple permutation replicates."""
+
+    # Initialize array of replicates: perm_replicates
+    perm_replicates = np.empty(size)
+
+    for i in range(size):
+        # Generate permutation sample
+        perm_sample_1, perm_sample_2 = permutation_sample(data_1, data_2)
+
+        # Compute the test statistic
+        perm_replicates[i] = func(perm_sample_1, perm_sample_2)
+
+    return perm_replicates
