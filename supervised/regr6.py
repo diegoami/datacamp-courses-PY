@@ -1,5 +1,5 @@
 
-#pd.Dataframe(np.column_stack([X,y])).to_csv(sys.stdout)
+#pd.DataFrame(np.column_stack([X,y])).to_csv(sys.stdout)
 # Import necessary modules
 from sklearn.linear_model import Lasso
 import matplotlib.pyplot as plt
