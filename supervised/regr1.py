@@ -6,8 +6,8 @@ import pandas as pd
 df = pd.read_csv('../data/gapminder_2.csv')
 
 # Create arrays for features and target variable
-y = df['fertility'].values
-X = df['life'].values
+X = df['fertility'].values
+y = df['life'].values
 
 # Print the dimensions of X and y before reshaping
 print("Dimensions of y before reshaping: {}".format(y.shape))
