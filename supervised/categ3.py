@@ -3,9 +3,9 @@ import pandas as pd
 
 
 df = pd.read_csv('../data/gapminder_5.csv')
-X = df.drop("1", axis=1).values
-y = df["1"]
-df_columns = df.drop("1", axis=1).columns
+X = df.drop("13", axis=1).values
+y = df["13"]
+df_columns = df.drop("13", axis=1).columns
 # Import necessary modules
 from sklearn.linear_model import Ridge
 from sklearn.model_selection import cross_val_score

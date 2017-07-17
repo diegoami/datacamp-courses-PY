@@ -17,9 +17,9 @@ df_region = pd.get_dummies(df,drop_first=True)
 # Print the new columns of df_region
 print(df_region.columns)
 
-X = df_region.drop("fertility", axis=1).values
-y = df_region["fertility"]
-df_columns = df_region.drop("fertility", axis=1).columns
+X = df_region.drop("life", axis=1).values
+y = df_region["life"]
+df_columns = df_region.drop("life", axis=1).columns
 # Import necessary modules
 from sklearn.linear_model import Ridge
 from sklearn.model_selection import cross_val_score
