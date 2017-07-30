@@ -7,22 +7,7 @@
     <bookmark url="file://$PROJECT_DIR$/import_data_5/import_data_5_8.py" line="2" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b29d5897-70cf-4527-a981-ca4e171d1a49" name="Default" comment="Half plot course">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_c.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_c2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/unsup_c3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/config_alllines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/datacamp.iml" afterPath="$PROJECT_DIR$/.idea/datacamp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="b29d5897-70cf-4527-a981-ca4e171d1a49" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1383,7 +1368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500838219121</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Half plot course">
+      <created>1501406117091</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1501406117091</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1462,10 +1454,10 @@
     <MESSAGE value="SQL second chapter" />
     <MESSAGE value="SQL finished, plotting began" />
     <MESSAGE value="Other stuff plotted" />
-    <MESSAGE value="Half plot course" />
     <MESSAGE value="Finishing the course" />
     <MESSAGE value="Plot finished course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Plot finished course" />
+    <MESSAGE value="Half plot course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Half plot course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
