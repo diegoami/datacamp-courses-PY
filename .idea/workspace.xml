@@ -8,14 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b29d5897-70cf-4527-a981-ca4e171d1a49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_1c.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/tsne_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/tsne_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/tsne_c1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/tsne_c2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_2c.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_3c.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unsupervised_1/pca_7.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -173,6 +171,7 @@
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$clean_9.coverage" NAME="clean_9 Coverage Results" MODIFIED="1500413186650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cleaning" />
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$import_data_5__10.coverage" NAME="import_data_5__10 Coverage Results" MODIFIED="1500796226561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/import_data_5" />
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$conf1.coverage" NAME="conf1 Coverage Results" MODIFIED="1500241141475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/supervised" />
+    <SUITE FILE_PATH="coverage/datacamp_courses_PY$pca_6.coverage" NAME="pca_6 Coverage Results" MODIFIED="1501441183994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsupervised_1" />
     <SUITE FILE_PATH="coverage/datacamp$st_python2_15.coverage" NAME="st_python2_15 Coverage Results" MODIFIED="1497470725986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/st_python_2" />
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$pca_3.coverage" NAME="pca_3 Coverage Results" MODIFIED="1501434738580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsupervised_1" />
     <SUITE FILE_PATH="coverage/datacamp$st_python_19.coverage" NAME="st_python_19 Coverage Results" MODIFIED="1497135095249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/st_python" />
@@ -324,6 +323,7 @@
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$grid3.coverage" NAME="grid3 Coverage Results" MODIFIED="1500315904206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/supervised" />
     <SUITE FILE_PATH="coverage/datacamp$rw_4.coverage" NAME="rw_4 Coverage Results" MODIFIED="1495756064171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random_walk" />
     <SUITE FILE_PATH="coverage/datacamp$pandas4_2.coverage" NAME="pandas4_2 Coverage Results" MODIFIED="1495837351747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_4" />
+    <SUITE FILE_PATH="coverage/datacamp_courses_PY$pca_5.coverage" NAME="pca_5 Coverage Results" MODIFIED="1501440924619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsupervised_1" />
     <SUITE FILE_PATH="coverage/datacamp$panda8_2.coverage" NAME="panda8_2 Coverage Results" MODIFIED="1495918900896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_8" />
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$import_data_5_8.coverage" NAME="import_data_5_8 Coverage Results" MODIFIED="1499378131513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/import_data_5" />
     <SUITE FILE_PATH="coverage/datacamp$panda7_4.coverage" NAME="panda7_4 Coverage Results" MODIFIED="1495912562702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_7" />
@@ -448,6 +448,7 @@
     <SUITE FILE_PATH="coverage/datacamp$pandas9_5.coverage" NAME="pandas9_5 Coverage Results" MODIFIED="1495926293865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_9" />
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$st_beak_12.coverage" NAME="st_beak_12 Coverage Results" MODIFIED="1499795302075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/st_python_beak" />
     <SUITE FILE_PATH="coverage/datacamp$panda5_11.coverage" NAME="panda5_11 Coverage Results" MODIFIED="1495877254470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_5" />
+    <SUITE FILE_PATH="coverage/datacamp_courses_PY$pca_4.coverage" NAME="pca_4 Coverage Results" MODIFIED="1501440243658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsupervised_1" />
     <SUITE FILE_PATH="coverage/datacamp$loop_5.coverage" NAME="loop_5 Coverage Results" MODIFIED="1495755590566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops" />
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$st_beak_2.coverage" NAME="st_beak_2 Coverage Results" MODIFIED="1498917339658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/st_python_beak" />
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$st_beak_5.coverage" NAME="st_beak_5 Coverage Results" MODIFIED="1498923066260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/st_python_beak" />
@@ -471,6 +472,7 @@
     <SUITE FILE_PATH="coverage/datacamp_courses_PY$import_data_4_5.coverage" NAME="import_data_4_5 Coverage Results" MODIFIED="1499372583975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/import_data_4" />
     <SUITE FILE_PATH="coverage/datacamp$pandas9_2.coverage" NAME="pandas9_2 Coverage Results" MODIFIED="1495923558559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_9" />
     <SUITE FILE_PATH="coverage/datacamp$pandas9_10.coverage" NAME="pandas9_10 Coverage Results" MODIFIED="1495928789307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_9" />
+    <SUITE FILE_PATH="coverage/datacamp_courses_PY$pca_7.coverage" NAME="pca_7 Coverage Results" MODIFIED="1501441585052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsupervised_1" />
     <SUITE FILE_PATH="coverage/datacamp$pandas4_3.coverage" NAME="pandas4_3 Coverage Results" MODIFIED="1495837562945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_4" />
     <SUITE FILE_PATH="coverage/datacamp$panda6_7.coverage" NAME="panda6_7 Coverage Results" MODIFIED="1495883801057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_6" />
     <SUITE FILE_PATH="coverage/datacamp$pandas12_3.coverage" NAME="pandas12_3 Coverage Results" MODIFIED="1496355130695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_12" />
@@ -479,76 +481,68 @@
     <SUITE FILE_PATH="coverage/datacamp$pandas14_10.coverage" NAME="pandas14_10 Coverage Results" MODIFIED="1496526048248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas14" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="pca_1c.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_1c.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="140">
-                  <caret line="194" column="21" lean-forward="false" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pca_1.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="36">
-                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="21" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="tsne_1.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/unsupervised_1/tsne_1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="18">
-                  <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pca_3.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_3.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="28" selection-end-column="10" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="pca_2.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_2.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="42" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pca_1.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="54">
-                  <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pca_1c.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_1c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="194" column="21" lean-forward="false" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pca_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="21" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsne_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unsupervised_1/tsne_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pca_5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pca_6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pca_7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="27" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -560,7 +554,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>In [7</find>
       <find>i</find>
       <find>imgo</find>
       <find>img</find>
@@ -590,6 +583,7 @@
       <find>CROSSTAB</find>
       <find>varieties</find>
       <find>movements</find>
+      <find>with</find>
     </findStrings>
     <replaceStrings>
       <replace>'nan'</replace>
@@ -617,12 +611,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/plotting/plot____31.py" />
-        <option value="$PROJECT_DIR$/data/st_aapl.csv" />
-        <option value="$PROJECT_DIR$/data/st_ibm.csv" />
-        <option value="$PROJECT_DIR$/data/st_csco.csv" />
-        <option value="$PROJECT_DIR$/data/st_msft.csv" />
-        <option value="$PROJECT_DIR$/plotting/plot____32.py" />
         <option value="$PROJECT_DIR$/plotting/plot____33.py" />
         <option value="$PROJECT_DIR$/plotting/plot____34.py" />
         <option value="$PROJECT_DIR$/plotting/plot____35.py" />
@@ -668,6 +656,12 @@
         <option value="$PROJECT_DIR$/unsupervised_1/pca_1.py" />
         <option value="$PROJECT_DIR$/unsupervised_1/pca_2.py" />
         <option value="$PROJECT_DIR$/unsupervised_1/pca_3.py" />
+        <option value="$PROJECT_DIR$/unsupervised_1/pca_2c.py" />
+        <option value="$PROJECT_DIR$/unsupervised_1/pca_4.py" />
+        <option value="$PROJECT_DIR$/unsupervised_1/pca_3c.py" />
+        <option value="$PROJECT_DIR$/unsupervised_1/pca_5.py" />
+        <option value="$PROJECT_DIR$/unsupervised_1/pca_6.py" />
+        <option value="$PROJECT_DIR$/unsupervised_1/pca_7.py" />
       </list>
     </option>
   </component>
@@ -699,6 +693,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -725,8 +721,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -739,17 +733,17 @@
     <option name="mySupportQtDebugging" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unsupervised_1" />
+      <recent name="$PROJECT_DIR$/cleaning" />
+      <recent name="D:\python\datacamp\data" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/unsupervised_1" />
       <recent name="$PROJECT_DIR$/plotting" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/cleaning" />
       <recent name="$PROJECT_DIR$/supervised" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/unsupervised_1" />
-      <recent name="$PROJECT_DIR$/cleaning" />
-      <recent name="D:\python\datacamp\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -764,7 +758,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pca_3">
+  <component name="RunManager" selected="Python.pca_7">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -912,42 +906,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration name="pca_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervised_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="datacamp" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/pca_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="pca_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervised_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="datacamp" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/pca_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="pca_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -966,7 +924,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tsne_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pca_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -979,12 +937,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datacamp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/tsne_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/pca_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tsne_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pca_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -997,25 +955,61 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datacamp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/tsne_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/pca_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="pca_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervised_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="datacamp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/pca_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="pca_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervised_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="datacamp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_1/pca_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tsne_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tsne_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pca_1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pca_2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pca_3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pca_3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pca_4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pca_5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pca_6" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pca_7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pca_3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pca_2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pca_1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tsne_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tsne_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pca_7" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pca_6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pca_5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pca_4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pca_3" />
       </list>
     </recent_temporary>
   </component>
@@ -1341,17 +1335,24 @@
       <option name="project" value="LOCAL" />
       <updated>1501411888366</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="pca stuff">
+      <created>1501435114670</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1501435114670</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26128018" sideWeight="0.1671159" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28331584" sideWeight="0.1703504" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.90296495" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26128018" sideWeight="0.8328841" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28331584" sideWeight="0.82964957" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20754717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1398,7 +1399,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added stuff from functions course" />
     <MESSAGE value="added functions" />
     <MESSAGE value="Functions course" />
     <MESSAGE value="iterators_crap" />
@@ -1423,7 +1423,8 @@
     <MESSAGE value="Plot finished course" />
     <MESSAGE value="Half plot course" />
     <MESSAGE value="Other excercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Other excercises" />
+    <MESSAGE value="pca stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="pca stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1493,48 +1494,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/mean_30.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/mean_75.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/mean_125.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/mean_250.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63360">
-          <caret line="3520" column="29" lean-forward="false" selection-start-line="3520" selection-start-column="29" selection-end-line="3520" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plotting/plot____36.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="30" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plotting/plot__15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plotting/plot__16.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1603,7 +1562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1619,7 +1577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1627,7 +1584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1643,7 +1599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-395">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1651,7 +1606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4105">
           <caret line="815" column="12" lean-forward="false" selection-start-line="815" selection-start-column="12" selection-end-line="815" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1659,7 +1613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1675,7 +1628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1691,7 +1643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1707,7 +1658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1715,7 +1665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1723,7 +1672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="532" column="24" lean-forward="true" selection-start-line="532" selection-start-column="15" selection-end-line="532" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1731,7 +1679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1739,7 +1686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1747,7 +1693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="85" column="18" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1763,9 +1708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1821,15 +1763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="115" column="32" lean-forward="true" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/config_alllines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1845,7 +1778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="212" column="13" lean-forward="false" selection-start-line="212" selection-start-column="13" selection-end-line="212" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1859,7 +1791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_1c.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="162">
           <caret line="194" column="21" lean-forward="false" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
           <folding />
         </state>
@@ -1867,8 +1799,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unsupervised_1/tsne_1.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/config_alllines.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="1" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_3c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1881,10 +1861,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_3.py">
+    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervised_1/pca_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="27" selection-end-column="30" />
           <folding />
         </state>
       </provider>
