@@ -1,6 +1,6 @@
 import numpy as np
-input_data = np.array([3, 5])
-
+#input_data = np.array([3, 5])
+input_data = np.array([0, 3])
 
 
 def relu(input):
@@ -51,10 +51,16 @@ model_output_0 = predict_with_network(input_data, weights_0)
 error_0 = model_output_0 - target_actual
 
 # Create weights that cause the network to make perfect prediction (3): weights_1
-weights_1 = {'node_0': [2, 1],
-             'node_1': [1, 2],
-             'output': [1, 1]
+#weights_1 = {'node_0': [1, 0],
+#             'node_1': [0, 0],
+#            'output': [1, 0]
+#            }
+
+weights_1 = {'node_0': [0, 0],
+             'node_1': [0, 1],
+            'output': [0, 1]
             }
+
 
 # Make prediction using new weights: model_output_1
 model_output_1 = predict_with_network(input_data, weights_1)
