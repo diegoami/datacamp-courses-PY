@@ -13,10 +13,15 @@ df = pd.read_csv('titanic.csv')
 target = to_categorical(df.survived)
 
 
-# Specify, compile, and fit the model
-model = Sequential()
-model.add(Dense(32, activation='relu', input_shape = (n_cols,)))
-model.add(Dense(2, activation='softmax'))
+def get_model():
+    # Specify, compile, and fit the model
+    model = Sequential()
+    model.add(Dense(32, activation='relu', input_shape=(n_cols,)))
+    model.add(Dense(2, activation='softmax'))
+    return model
+
+
+model = get_model()
 model.compile(optimizer='sgd',
               loss='categorical_crossentropy',
               metrics=['accuracy'])
