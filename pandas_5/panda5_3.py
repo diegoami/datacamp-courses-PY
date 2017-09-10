@@ -13,4 +13,6 @@ my_datetimes = pd.to_datetime(date_list, format=time_format)
 # Construct a pandas Series using temperature_list and my_datetimes: time_series
 time_series = pd.Series(temperature_list, index=my_datetimes)
 
+print(time_series)
+
 

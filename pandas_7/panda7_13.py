@@ -1,5 +1,6 @@
 import pandas as pd
 election = pd.read_csv('../data/elections.csv',index_col = 0)
+print(election.head())
 # Create the dictionary: red_vs_blue
 red_vs_blue = {'Obama':'blue', 'Romney':'red'}
 

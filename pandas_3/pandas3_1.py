@@ -3,7 +3,8 @@ import numpy as np
 import pandas as pd
 
 
-df = pd.DataFrame({'Total Population': {1960: 3034970564.0,
+df = pd.DataFrame(
+  {'Total Population': {1960: 3034970564.0,
   1970: 3684822701.0,
   1980: 4436590356.0,
   1990: 5282715991.0,

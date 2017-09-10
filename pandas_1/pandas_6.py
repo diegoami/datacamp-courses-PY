@@ -7,3 +7,6 @@ print(cars[0:3])
 
 # Print out fourth, fifth and sixth observation
 print(cars[3:6])
+
+# Print out first 3 observations
+print(cars.iloc[0:3,:])

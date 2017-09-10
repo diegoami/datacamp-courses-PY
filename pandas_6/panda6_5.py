@@ -19,4 +19,4 @@ date_times = pd.to_datetime(date_string, format='%Y%m%d%H%M')
 df_clean = df_dropped.set_index(date_times)
 
 # Print the output of df_clean.head()
-#print(df_clean.head())
+print(df_clean)

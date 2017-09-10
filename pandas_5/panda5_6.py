@@ -10,6 +10,9 @@ ts3 = ts2.reindex(ts1.index)
 # Reindex with fill method, using forward fill: ts4
 ts4 = ts2.reindex(ts1.index, method='ffill')
 
+print(ts3)
+
+print(ts4)
 # Combine ts1 + ts2: sum12
 sum12 = ts1 + ts2
 
